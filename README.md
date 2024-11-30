@@ -75,4 +75,4 @@ Total objects processed: 3000000
 Total files generated: 3
 
 Inventory report generated with split files: s3_inventory_my-example-bucket_*.csv
-Total execution time: 320.65 seconds```
+Total execution time: 320.65 seconds
