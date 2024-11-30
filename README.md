@@ -33,9 +33,9 @@ AWS credentials must be configured using the AWS CLI or environment variables:
 ```aws configure```
   Provide:
   
-  - **Access Key ID
-  - **Secret Access Key
-  - **Default Region
+  - Access Key ID
+  - Secret Access Key
+  - Default Region
   - The AWS user must have the following permissions:
   - s3:ListBucket
   - s3:GetObject
