@@ -30,7 +30,7 @@ The output is stored in **CSV files**, and if the row limit of Excel (1,048,576 
 
 AWS Setup
 AWS credentials must be configured using the AWS CLI or environment variables:
-```aws configure
+```aws configure```
   Provide:
   
   Access Key ID
