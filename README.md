@@ -41,7 +41,7 @@ AWS credentials must be configured using the AWS CLI or environment variables:
   s3:ListBucket
   s3:GetObject
 
-###How to Run the Script
+## **How to Run the Script
 ### **Step 1: Download the Script
   Save the script file as s3_inventory_split.py in a working directory.
 
