@@ -26,7 +26,7 @@ The output is stored in **CSV files**, and if the row limit of Excel (1,048,576 
 ### Software Dependencies
 1. **Python** (Version 3.6 or higher)
 2. **AWS SDK for Python (Boto3)**: Install via pip:
-   ``` pip install boto3
+   ``` pip install boto3```
 
 AWS Setup
 AWS credentials must be configured using the AWS CLI or environment variables:
