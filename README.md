@@ -57,7 +57,7 @@ AWS credentials must be configured using the AWS CLI or environment variables:
   ```python s3_inventory.py```
 
 ### Step 5: Provide Bucket Name
-  ```Enter the S3 bucket name for inventory: my-example-bucket``
+  ```Enter the S3 bucket name for inventory: my-example-bucket```
 
 ### Step 6: Check the Output
 
