@@ -42,24 +42,24 @@ AWS credentials must be configured using the AWS CLI or environment variables:
   s3:GetObject
 
 ###How to Run the Script
-**Step 1: Download the Script
+## **Step 1: Download the Script
   Save the script file as s3_inventory_split.py in a working directory.
 
-**Step 2: Open Terminal or Command Prompt
+## **Step 2: Open Terminal or Command Prompt
   Windows: Open Command Prompt (Win + R, then type cmd).
   macOS/Linux: Open a terminal.
 
-**Step 3: Install Dependencies
+## **Step 3: Install Dependencies
   Run the following command to install the required Python package:
   pip install boto3
 
-**Step 4: Run the Script
+## **Step 4: Run the Script
   python s3_inventory_split.py
 
-**Step 5: Provide Bucket Name
+## **Step 5: Provide Bucket Name
   Enter the S3 bucket name for inventory: my-example-bucket
 
-**Step 6: Check the Output
+## **Step 6: Check the Output
 
 ```The script will generate multiple CSV files in the current directory.
   s3_inventory_<bucket_name>_1.csv
